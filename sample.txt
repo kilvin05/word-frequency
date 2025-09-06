@@ -1,0 +1,4 @@
+In the beginning, concurrency seems simple. But real systems are messy.
+Threads run at the same time, or they appear to. Word counts should match,
+even when the file is partitioned. The quick brown fox jumps over the lazy dog.
+The quick brown fox doesn't mind threads. The dog, however, might.
